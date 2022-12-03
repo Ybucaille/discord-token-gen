@@ -1,8 +1,5 @@
 <h1 align="center">Welcome to discord-token-gen 👋</h1>
 <p>
-  <a href="https://www.npmjs.com/package/discord-token-gen" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/discord-token-gen.svg">
-  </a>
   <a href="MIT License" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
@@ -14,12 +11,6 @@
 > Just a little .py file that generates discord tokens.
 
 ### 🏠 [Homepage](Discord Token Generator)
-
-## Install
-
-```sh
-npm install
-```
 
 ## Author
 
