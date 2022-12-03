@@ -31,7 +31,6 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2022 [Showzur](https://github.com/shwzr).<br />
-This project is [MIT](MIT License) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
