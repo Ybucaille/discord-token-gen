@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to discord-token-gen 👋</h1>
+<h1 align="center">Welcome to Discord Token Generator 👋</h1>
 <p>
   <a href="https://twitter.com/Showzur" target="_blank">
     <img alt="Twitter: Showzur" src="https://img.shields.io/twitter/follow/Showzur.svg?style=social" />
