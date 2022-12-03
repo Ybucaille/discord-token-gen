@@ -7,8 +7,6 @@
 
 > Just a little .py file that generates discord tokens.
 
-### 🏠 Discord Token Generator
-
 ## Author
 
 👤 **Showzur**
