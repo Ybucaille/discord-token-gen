@@ -7,7 +7,7 @@
 
 > Just a little .py file that generates discord tokens.
 
-### 🏠 [Homepage](Discord Token Generator)
+### 🏠 Discord Token Generator
 
 ## Author
 
