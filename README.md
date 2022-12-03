@@ -13,6 +13,8 @@
 ```sh
 python discord-token-gen.py
 ```
+or
+simply click on the start.bat file
 
 ## 👤 Author
 
