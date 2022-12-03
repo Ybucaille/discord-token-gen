@@ -7,6 +7,13 @@
 
 > Just a little .py file that generates discord tokens.
 
+
+## 🚀 Usage
+
+```sh
+python discord-token-gen.py
+```
+
 ## Author
 
 👤 **Showzur**
