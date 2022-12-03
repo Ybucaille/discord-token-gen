@@ -33,4 +33,3 @@ Give a ⭐️ if this project helped you!
 Copyright © 2022 [Showzur](https://github.com/shwzr).<br />
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
