@@ -11,7 +11,7 @@
 
 👤 **Showzur**
 
-* Website: https://discord.gg/UHy8mZsNh8
+* SRV Discord: https://discord.gg/UHy8mZsNh8
 * Twitter: [@Showzur](https://twitter.com/Showzur)
 * Github: [@shwzr](https://github.com/shwzr)
 
