@@ -1,5 +1,5 @@
-> Just a little .py file that generates discord tokens.
 <h1 align="center">Welcome to Discord Token Generator 👋</h1>
+> Just a little .py file that generates discord tokens.
 <p>
   <a href="https://twitter.com/Showzur" target="_blank">
     <img alt="Twitter: Showzur" src="https://img.shields.io/twitter/follow/Showzur.svg?style=social" />
