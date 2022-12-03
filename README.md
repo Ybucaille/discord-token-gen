@@ -17,10 +17,6 @@
 * Twitter: [@Showzur](https://twitter.com/Showzur)
 * Github: [@shwzr](https://github.com/shwzr)
 
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE). You can also take a look at the [contributing guide](SOFTWARE.).
-
 ## Show your support
 
 Give a ⭐️ if this project helped you!
