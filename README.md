@@ -1,3 +1,4 @@
+> Just a little .py file that generates discord tokens.
 <h1 align="center">Welcome to Discord Token Generator 👋</h1>
 <p>
   <a href="https://twitter.com/Showzur" target="_blank">
@@ -5,18 +6,15 @@
   </a>
 </p>
 
-> Just a little .py file that generates discord tokens.
-
-
 ## 🚀 Usage
 
 ```sh
 python discord-token-gen.py
 ```
 
-## Author
+## 👤 Author
 
-👤 **Showzur**
+**Showzur**
 
 * SRV Discord: https://discord.gg/UHy8mZsNh8
 * Twitter: [@Showzur](https://twitter.com/Showzur)
