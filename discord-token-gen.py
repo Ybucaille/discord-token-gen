@@ -4,7 +4,7 @@ import os
 from datetime import date
 import datetime
 
-N = input("Combien de tokens veux-tu générer ? ")
+N = input("Cmb de tokens veux-tu générer ? ")
 
 count = 0
 current_path = os.path.dirname(os.path.realpath(__file__))
